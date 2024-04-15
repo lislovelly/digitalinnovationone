@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+}
+.header {
+    display: flex;
+    background-image: url(kisspng.png), url(gata1.JPG);
+    background-repeat: no-repeat, no-repeat;
+    background-size: 200px, 100%;
+    min-height: 400px;
+}
+.content {
+    background-color: white;
+    min-height: 300px;
+    padding: 20px;
+}
+.footer {
+    background-color: rgb(99, 56, 240);
+    min-height: 150px;
+}

@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.exe
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.deps.json
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.runtimeconfig.json
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.dll
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\bin\Debug\net8.0\trilha-net-fundamentos.pdb
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.AssemblyInfo.cs
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.sourcelink.json
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.dll
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\refint\trilha-net-fundamentos.dll
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.pdb
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\trilha-net-fundamentos.genruntimeconfig.cache
+C:\Users\USER\Desktop\Elisangela\ABootcamp\digitalinnovationone\trilha-net-fundamentos\obj\Debug\net8.0\ref\trilha-net-fundamentos.dll

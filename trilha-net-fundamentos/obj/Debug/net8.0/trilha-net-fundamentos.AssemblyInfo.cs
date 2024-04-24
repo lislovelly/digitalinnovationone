@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("trilha-net-fundamentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f74cf883540edfff83a12bc3f9bf1e5ca560b414")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14f679eeef701cfdb5666e3b23d6cfde0feeca3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("trilha-net-fundamentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("trilha-net-fundamentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

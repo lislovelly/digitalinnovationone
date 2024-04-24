@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-fundamentos\\trilha-net-fundamentos.csproj",
-      "projectName": "trilha-net-fundamentos",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-fundamentos\\trilha-net-fundamentos.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-fundamentos2\\trilha-net-fundamentos2.csproj",
+      "projectName": "trilha-net-fundamentos2",
+      "projectPath": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-fundamentos2\\trilha-net-fundamentos2.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-fundamentos\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-fundamentos2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

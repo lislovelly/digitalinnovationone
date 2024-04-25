@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("trilha-net-fundamentos2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DesafioProjetoHospedagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29c7cd05ae030040170f4651087081643a8f34ed")]
-[assembly: System.Reflection.AssemblyProductAttribute("trilha-net-fundamentos2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("trilha-net-fundamentos2")]
+[assembly: System.Reflection.AssemblyProductAttribute("DesafioProjetoHospedagem")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DesafioProjetoHospedagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

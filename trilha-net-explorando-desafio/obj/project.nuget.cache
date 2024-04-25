@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oAD5a8RFhys4wrziFEHSkid9FMOeaRoEZmI7KCgT1Bw6/6ow6QyhA0XgKX0GboP4CHsZGPI8FesTkvXtKtU9Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Desktop\\Elisangela\\ABootcamp\\digitalinnovationone\\trilha-net-explorando-desafio\\DesafioProjetoHospedagem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

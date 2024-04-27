@@ -5,19 +5,12 @@ using System.Threading.Tasks;
 
 namespace trilha_net_fundamentos2.Models
 {
-    public class Venda
+    public class Venda(int id, string produto, decimal preco, DateTime dataVenda)
     {
-        public Venda(int id, string produto, decimal preco, DateTime dataVenda)
-        {
-            Id = id;
-            Produto = produto;
-            Preco = preco;
-            DataVenda = dataVenda;
-        }
-        public int Id { get; set; }
-        public string Produto { get; set; }
-        public decimal Preco { get; set; }
+        public int Id { get; set; } = id;
+        public string Produto { get; set; } = produto;
+        public decimal Preco { get; set; } = preco;
 
-        public DateTime DataVenda { get; set; }
+        public DateTime DataVenda { get; set; } = dataVenda;
     }   
 }

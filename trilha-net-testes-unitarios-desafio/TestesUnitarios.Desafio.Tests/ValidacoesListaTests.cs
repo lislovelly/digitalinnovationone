@@ -19,7 +19,7 @@ public class ValidacoesListaTests
         var resultadoEsperado = new List<int> { 5, 9 };
 
         // Act
-        var resultado = _validacoes.RemoverNumerosNegativos(lista);
+        var resultado = ValidacoesLista.RemoverNumerosNegativos(lista);
 
         // Assert
         Assert.Equal(resultadoEsperado, resultado);
@@ -33,7 +33,7 @@ public class ValidacoesListaTests
         var numeroParaProcurar = 9;
 
         // Act
-        var resultado = _validacoes.ListaContemDeterminadoNumero(lista, numeroParaProcurar);
+        var resultado = ValidacoesLista.ListaContemDeterminadoNumero(lista, numeroParaProcurar);
 
         // Assert
         Assert.True(resultado);
@@ -47,7 +47,7 @@ public class ValidacoesListaTests
         var numeroParaProcurar = 10;
 
         // Act
-        var resultado = _validacoes.ListaContemDeterminadoNumero(lista, numeroParaProcurar);
+        var resultado = ValidacoesLista.ListaContemDeterminadoNumero(lista, numeroParaProcurar);
 
         // Assert
         Assert.False(resultado);
@@ -61,7 +61,7 @@ public class ValidacoesListaTests
         var resultadoEsperado = new List<int> { 10, 14, 16, 18 };
         
         // Act
-        var resultado = _validacoes.MultiplicarNumerosLista(lista, 2);
+        var resultado = ValidacoesLista.MultiplicarNumerosLista(lista, 2);
 
         // Assert
         Assert.Equal(resultadoEsperado, resultado);
@@ -76,7 +76,7 @@ public class ValidacoesListaTests
         var lista = new List<int> { 5, -1, -8, 9 };
         
         // Act
-        var resultado = _validacoes.RetornarMaiorNumeroLista(lista);
+        var resultado = ValidacoesLista.RetornarMaiorNumeroLista(lista);
 
         // Assert
         Assert.Equal(9, resultado);
@@ -89,7 +89,7 @@ public class ValidacoesListaTests
         var lista = new List<int> { 5, -1, -8, 9 };
         
         // Act
-        var resultado = _validacoes.RetornarMenorNumeroLista(lista);
+        var resultado = ValidacoesLista.RetornarMenorNumeroLista(lista);
 
         // Assert
         Assert.Equal(-8, resultado);
